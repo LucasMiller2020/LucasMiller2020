@@ -1,9 +1,28 @@
-👋 Hi, I’m @LucasMiller2020
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Lucas Miller
 
+Hi, I’m Lucas Miller: a 23-year-old Columbus-based hobbyist developer blending CLI tooling, data viz, and AI ethics.
 
-I'm @LucasMiller2020. Sophmore at Capital University in Columbus, Ohio. 
-My school email is lmiller2@capital.edu
+---
+
+## Skills & Interests
+- 🚀 Python CLI utilities & data visualization  
+- 🤖 AI/ML fundamentals, ChatGPT integrations, tech ethics  
+- 📚 Philosophy of technology, librarianship, open knowledge  
+
+---
+
+## Featured Projects
+- **mood-logger** · CLI + JSON storage + GitHub Actions tests → https://github.com/LucasMiller2020/mood-logger  
+- **plot-cli** · “plot” subcommand for quick time-series mood charts → https://github.com/LucasMiller2020/plot-cli  
+
+---
+
+## Experience
+- **Bookseller**, Barnes & Noble · 1 yr  
+- Open-source contributor: Python utilities & CI/CD  
+
+---
+
+## Let’s Connect
+I’m always exploring new ideas at the intersection of code, AI, and free knowledge.  
+Follow along or open an issue on GitHub!
