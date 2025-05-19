@@ -12,8 +12,8 @@ Hi, I’m Lucas Miller: a 23-year-old Columbus-based hobbyist developer blending
 ---
 
 ## Featured Projects
-- **mood-logger** · CLI + JSON storage + GitHub Actions tests → https://github.com/LucasMiller2020/mood-logger  
-- **plot-cli** · “plot” subcommand for quick time-series mood charts → https://github.com/LucasMiller2020/plot-cli  
+- **mood-logger** · CLI + JSON storage + GitHub Actions tests
+- **plot-cli** · “plot” subcommand for quick time-series mood charts
 
 ---
 
